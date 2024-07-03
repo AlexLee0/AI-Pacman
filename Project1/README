@@ -1,0 +1,5 @@
+Project 1: Search
+
+This project explores different search algorithms for PacMan to find pellets. This includes A*, BFS, DFS, and cost functions.
+
+Link to project spec: https://inst.eecs.berkeley.edu/~cs188/sp24/projects/proj1/
