@@ -1,5 +1,5 @@
-Project 2: Multi-Agent Search
+Project 3: Logic and Classical Planning
 
-This project explores various search algorithms and evaluation functions such as minimax, alpha-beta pruning, and expectimax.
+This project logic, path planning, and SLAM.
 
-Link to project spec: https://inst.eecs.berkeley.edu/~cs188/sp24/projects/proj2/
+Link to project spec: https://inst.eecs.berkeley.edu/~cs188/sp24/projects/proj3/
